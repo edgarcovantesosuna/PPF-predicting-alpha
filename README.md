@@ -29,7 +29,7 @@ how to set $\alpha$ to generate the Pareto front approximations that adequately 
     * 3.1. Approximating the pair-potential energy-based subset selection problem
     * 3.2. Analysis of parameters
         *  3.2.1. Approximating $\alpha$
-        *  [3.2.2. Predicting ](https://github.com/edgarcovantesosuna/PPF-predicting-alpha/blob/4c434246332bbd942325b05e7642d19661568035/pair-potential-functions-predicting-alpha.ipynb)$\alpha$
+        *  [3.2.2. Predicting ](https://github.com/edgarcovantesosuna/PPF-predicting-alpha/blob/0f2fe50720e7cc61c4565dc1264d591b11a06e23/pair-potential-functions-predicting-alpha.ipynb)$\alpha$
     * 3.3. Pair-potential energy-based reference sets
     * 3.4. Pair-potential energy-based archiving
 4. Conclusions and future work
